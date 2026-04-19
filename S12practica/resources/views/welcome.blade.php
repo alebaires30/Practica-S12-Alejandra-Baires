@@ -8,7 +8,7 @@
 <body style="margin:0; font-family:Arial; background-color:#ffe4e6;">
 
     <header style="background-color:#f472b6; color:white; padding:15px; text-align:center;">
-        <h1>A&A Styles</h1>
+        <h1>A&A Styles | Mi Proyecto Laravel</h1>
     </header>
 
     <nav style="background-color:#fbcfe8; padding:10px; text-align:center;">
