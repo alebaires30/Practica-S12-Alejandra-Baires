@@ -26,7 +26,7 @@
     </main>
 
     <footer style="background-color:#f472b6; color:white; text-align:center; padding:10px;">
-        <p>© 2026 A&A Styles</p>
+        <p>© 2026 A&N Styles</p>
     </footer>
 
 </body>
